@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving and Quantum computing..
 - 🌱 I’m currently learning Machine learning and qc
 - 💞️ I’m looking to collaborate on research on ML and QC
-- 📫 How to reach me ...gmail-fayasfayaz707@gmail.com
+- 📫 How to reach me ...gmail- fayasfayaz707@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
