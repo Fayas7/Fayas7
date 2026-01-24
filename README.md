@@ -1,15 +1,36 @@
 👋 Hi, I’m Fayas (@Fayas7)
 
-👀 Interested in Problem Solving and Quantum Computing
+I’m a curious problem-solver exploring the intersection of algorithms, machine learning, and quantum computing. I enjoy breaking down complex ideas, building things from first principles, and learning in public.
 
-🌱 Currently learning Machine Learning and Quantum Computing
+🔍 Interests
 
-💞️ Open to collaborating on ML + QC research projects
+Quantum Computing & Quantum Algorithms
 
-📫 Reach me at: fayasfayaz707@gmail.com
+Machine Learning & Optimization
 
-⚡ Fun fact: I love exploring the intersection of algorithms and physics!
-<!---
+Algorithmic thinking and mathematical intuition
+
+🌱 Currently Learning
+
+Quantum computing fundamentals & variational algorithms
+
+Machine learning concepts and practical implementations
+
+🤝 Open to Collaborating On
+
+ML + Quantum Computing research or experiments
+
+Learning-driven projects, notebooks, and explorations
+
+Open discussions around emerging computation paradigms
+
+📫 Get in Touch
+
+Email: fayasfayaz707@gmail.com
+
+⚡ Fun Fact
+
+I enjoy thinking about computation as physics — not just code.
 Fayas7/Fayas7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
