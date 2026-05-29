@@ -83,6 +83,7 @@ Machine learning-based intrusion detection project involving:
 ## 📫 Contact
 
 Email: [fayasfayaz707@gmail.com](mailto:fayasfayaz707@gmail.com)  
+
        [fayasmuhd2002@gmail.com](mailto:fayasmuhd2002@gmail.com).
 
 ---
