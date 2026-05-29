@@ -1,28 +1,92 @@
-👋 Hi, I’m Fayas (@Fayas7)
+# 👋 Hi, I'm Fayas Muhammed (@Fayas7)
 
-I am a problem-oriented learner with a strong interest in algorithms, machine learning, and quantum computing. I enjoy understanding systems from first principles, translating theory into practical experiments, and continuously improving through hands-on projects.
+I am a Computer Science graduate with a growing research interest in Quantum Computing, Machine Learning, and Computational Physics. I enjoy exploring systems from first principles, connecting mathematical foundations with practical implementations, and building projects that bridge theory and experimentation.
 
-🔍 Areas of Interest
+My current focus is preparing for research-oriented Master's programs in Quantum Technologies while developing a portfolio of quantum computing and machine learning projects.
 
-- Quantum Computing and Quantum Algorithms
-- Machine Learning and Optimization Techniques
-- Algorithmic Thinking and Mathematical Foundations
+---
 
-🌱 Currently Learning
+## 🔬 Areas of Interest
 
-- Quantum computing fundamentals, variational and hybrid algorithms
-- Core machine learning concepts and applied model development
+* Quantum Computing and Quantum Algorithms
+* Quantum Noise Analysis and Error Mitigation
+* Machine Learning and Intelligent Systems
+* Computational Physics and Mathematical Methods
+* Algorithm Design and Optimization
+* Network Security and Intrusion Detection
 
-🤝 Open to Collaboration
+---
 
-- Research-oriented projects in Machine Learning and Quantum Computing
-- Experimental notebooks, simulations, and educational content
-- Discussions and explorations around next-generation computation paradigms
+## 🚀 Current Projects
 
-📫 Contact
+### Quantum Portfolio
 
-Email: fayasfayaz707@gmail.com
+A structured collection of notebooks exploring:
 
-⚡ Personal Note
+* Quantum Gates and Superposition
+* Entanglement and Bell States
+* Quantum Simulators
+* Measurement Statistics
+* Quantum Algorithms
+* Qiskit-based Experiments
 
-I am particularly interested in viewing computation through a physics-driven lens, rather than purely as software.
+
+### Network Intrusion Detection System (NIDS)
+
+Machine learning-based intrusion detection project involving:
+
+* Network Traffic Analysis
+* Feature Engineering
+* XGBoost-based Classification
+* Real-time Packet Monitoring
+* Security-focused Data Analysis
+
+---
+## 🔬 Current Research Interests
+
+- Quantum Noise Analysis
+- Error Mitigation Techniques
+- Quantum Algorithms
+- Quantum Information Theory
+- Fault-Tolerant Quantum Computing
+
+---
+## 📚 Currently Learning
+
+* Quantum Computing with Qiskit
+* Quantum Information and Quantum Mechanics
+* Error Mitigation and Noise Modeling
+* Advanced Mathematics for Physics
+* Scientific Computing with Python
+* Machine Learning for Engineering and Scientific Applications
+
+---
+
+## 🏆 Certifications & Programs
+
+* IBM Qiskit Global Summer School (2024)
+* IBM Qiskit Global Summer School (2025)
+* QWorld Diploma in Quantum Computing and Programming
+
+---
+
+## 🤝 Open to Collaboration
+
+* Quantum Computing Projects
+* Quantum Education and Learning Resources
+* Research-Oriented Simulations
+* Machine Learning Applications
+* Open Source Scientific Computing Projects
+
+---
+
+## 📫 Contact
+
+Email: [fayasfayaz707@gmail.com](mailto:fayasfayaz707@gmail.com)
+       [fayasmuhd2002@gmail.com](mailto:fayasmuhd2002@gmail.com).
+
+---
+
+## ⚡ Research Interests
+
+I am particularly interested in understanding computation through the lens of physics, information theory, and mathematics. My long-term goal is to contribute to research in quantum technologies, quantum algorithms, and fault-tolerant quantum computing.
