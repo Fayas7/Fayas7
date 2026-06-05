@@ -1,92 +1,118 @@
-# 👋 Hi, I'm Fayas Muhammed (@Fayas7)
+# 👋 Hi, I'm Fayas Muhammed
 
-I am a Computer Science graduate with a growing research interest in Quantum Computing, Machine Learning, and Computational Physics. I enjoy exploring systems from first principles, connecting mathematical foundations with practical implementations, and building projects that bridge theory and experimentation.
+I am a Computer Science graduate with a growing research interest in **Quantum Information Science, Condensed Matter Physics, and Quantum Computing**. I enjoy exploring systems from first principles, connecting mathematical foundations with computational methods, and building projects that bridge theory and experimentation.
 
-My current focus is preparing for research-oriented Master's programs in Quantum Technologies while developing a portfolio of quantum computing and machine learning projects.
+I am currently preparing for research-oriented Master's programs in Quantum Technologies, with a long-term goal of contributing to **fault-tolerant quantum computation and topological quantum matter**.
 
 ---
 
-## 🔬 Areas of Interest
+## 🔬 Research Interests
 
-* Quantum Computing and Quantum Algorithms
+* Quantum Information Science
 * Quantum Noise Analysis and Error Mitigation
-* Machine Learning and Intelligent Systems
-* Computational Physics and Mathematical Methods
-* Algorithm Design and Optimization
-* Network Security and Intrusion Detection
+* Topological Phases of Matter
+* Majorana Zero Modes
+* Topological Quantum Computation
+* Condensed Matter Theory
+* Computational Physics
+* Mathematical Methods for Physics
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-### Quantum Portfolio
+### Quantum Noise Analysis and Error Mitigation *(In Progress)*
 
-A structured collection of notebooks exploring:
+Research-oriented Qiskit project exploring:
 
-* Quantum Gates and Superposition
-* Entanglement and Bell States
-* Quantum Simulators
-* Measurement Statistics
+* Quantum noise models
+* Fidelity analysis
+* Error mitigation techniques
+* Performance evaluation under realistic noise
+* Visualization and reproducible experimentation
+
+### Topological Quantum Matter Project *(In Progress)*
+
+Computational exploration of condensed matter systems, including:
+
+* Kitaev Chain simulations
+* Majorana edge modes
+* Topological phase transitions
+* Numerical studies of low-dimensional quantum systems
+
+### Quantum Computing Portfolio
+
+A collection of notebooks and simulations covering:
+
+* Quantum Gates and Circuits
+* Superposition and Entanglement
+* Bell States
+* Quantum Measurement
 * Quantum Algorithms
 * Qiskit-based Experiments
 
+### Network Intrusion Detection System
 
-### Network Intrusion Detection System (NIDS)
-
-Machine learning-based intrusion detection project involving:
+Machine-learning-based cybersecurity project featuring:
 
 * Network Traffic Analysis
 * Feature Engineering
-* XGBoost-based Classification
-* Real-time Packet Monitoring
-* Security-focused Data Analysis
+* XGBoost Classification
+* Real-Time Packet Monitoring
+* Security Analytics
 
 ---
-## 🔬 Current Research Interests
 
-- Quantum Noise Analysis
-- Error Mitigation Techniques
-- Quantum Algorithms
-- Quantum Information Theory
-- Fault-Tolerant Quantum Computing
+## 📚 Current Academic Focus
 
----
-## 📚 Currently Learning
-
-* Quantum Computing with Qiskit
-* Quantum Information and Quantum Mechanics
-* Error Mitigation and Noise Modeling
-* Advanced Mathematics for Physics
+* Advanced Quantum Mechanics
+* Dynamics of Classical and Quantum Fields
+* Mathematical Methods for Physics
+* Quantum Information Theory
+* Quantum Error Mitigation
 * Scientific Computing with Python
-* Machine Learning for Engineering and Scientific Applications
+* Computational Physics
 
 ---
 
-## 🏆 Certifications & Programs
+## 🎯 Current Goal
 
-* IBM Qiskit Global Summer School (2024)
-* IBM Qiskit Global Summer School (2025)
-* QWorld Diploma in Quantum Computing and Programming
+I am building a research portfolio focused on the connection between:
+
+**Quantum Information → Fault-Tolerant Quantum Computing → Topological Phases of Matter → Majorana Zero Modes**
+
+while preparing for graduate studies and research in quantum technologies.
+
+---
+
+## 🌱 Currently Learning
+
+* Qiskit and Quantum Simulations
+* Topological Quantum Matter
+* Condensed Matter Physics
+* Error Mitigation Techniques
+* Scientific Computing with Python
+* Research Methods in Quantum Information Science
 
 ---
 
 ## 🤝 Open to Collaboration
 
 * Quantum Computing Projects
-* Quantum Education and Learning Resources
-* Research-Oriented Simulations
-* Machine Learning Applications
-* Open Source Scientific Computing Projects
+* Qiskit Simulations
+* Computational Physics
+* Research-Oriented Open Source Projects
+* Scientific Computing Applications
 
 ---
 
 ## 📫 Contact
 
-Email: [fayasfayaz707@gmail.com](mailto:fayasfayaz707@gmail.com)  
-              [fayasmuhd2002@gmail.com](mailto:fayasmuhd2002@gmail.com).
+* Email: [fayasfayaz707@gmail.com](mailto:fayasfayaz707@gmail.com)
+* Email: [fayasmuhd2002@gmail.com](mailto:fayasmuhd2002@gmail.com)
 
 ---
 
-## ⚡ Research Interests
+## ⚡ Long-Term Research Vision
 
-I am particularly interested in understanding computation through the lens of physics, information theory, and mathematics. My long-term goal is to contribute to research in quantum technologies, quantum algorithms, and fault-tolerant quantum computing.
+My research interests lie at the intersection of condensed matter physics and quantum information science. I am particularly interested in understanding how topological phases of matter can be leveraged for fault-tolerant quantum computation, with future interests in Majorana zero modes, non-Abelian anyons, and topological quantum computing.
