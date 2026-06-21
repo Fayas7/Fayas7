@@ -31,7 +31,7 @@ Research-oriented Qiskit project exploring:
 * Performance evaluation under realistic noise
 * Visualization and reproducible experimentation
 
-### Topological Quantum Matter Project *(In Progress)*
+### Topological Quantum Matter Project 
 
 Computational exploration of condensed matter systems, including:
 
