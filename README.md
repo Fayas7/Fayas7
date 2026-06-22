@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Fayas Muhammed
 
-I am a Computer Science graduate with a growing research interest in **Quantum Information Science, Condensed Matter Physics, and Quantum Computing**. I enjoy exploring systems from first principles, connecting mathematical foundations with computational methods, and building projects that bridge theory and experimentation.
+I am a Computer Science student and aspiring quantum computing researcher with interests spanning Quantum Information Science, Quantum Error Mitigation, Condensed Matter Physics, and Topological Quantum Computation.
 
-I am currently preparing for research-oriented Master's programs in Quantum Technologies, with a long-term goal of contributing to **fault-tolerant quantum computation and topological quantum matter**.
+My work focuses on using computational and numerical methods to study quantum systems, with a particular interest in understanding how robust quantum information processing can emerge from topological quantum matter.
+
+I am currently building a research portfolio in preparation for graduate studies in Quantum Technologies, with long-term research interests in fault-tolerant quantum computation, topological phases of matter, and Majorana-based quantum systems.
 
 ---
 
@@ -10,56 +12,76 @@ I am currently preparing for research-oriented Master's programs in Quantum Tech
 
 * Quantum Information Science
 * Quantum Noise Analysis and Error Mitigation
+* Quantum Error Correction
 * Topological Phases of Matter
 * Majorana Zero Modes
 * Topological Quantum Computation
 * Condensed Matter Theory
 * Computational Physics
-* Mathematical Methods for Physics
+* Scientific Computing
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Research Projects
 
-### Quantum Noise Analysis and Error Mitigation *(In Progress)*
+### Quantum Noise Analysis and Error Mitigation
 
-Research-oriented Qiskit project exploring:
+Research-oriented Qiskit project investigating the impact of realistic noise on quantum circuits.
 
-* Quantum noise models
+**Topics explored:**
+
+* Quantum noise channels
 * Fidelity analysis
+* Noise-aware simulation
 * Error mitigation techniques
-* Performance evaluation under realistic noise
-* Visualization and reproducible experimentation
+* Performance benchmarking
+* Reproducible computational experiments
 
-### Topological Quantum Matter Project 
+**Tools:** Qiskit, Qiskit Aer, Python, NumPy, Matplotlib
 
-Computational exploration of condensed matter systems, including:
+---
 
-* Kitaev Chain simulations
+### Kitaev Chain and Majorana Zero Modes
+
+Computational condensed matter physics project exploring one-dimensional topological superconductors.
+
+**Topics explored:**
+
+* Kitaev Chain Hamiltonian
 * Majorana edge modes
 * Topological phase transitions
-* Numerical studies of low-dimensional quantum systems
+* Energy spectrum analysis
+* Numerical diagonalization
+* Topological quantum computation foundations
+
+**Tools:** Python, NumPy, SciPy, Matplotlib
+
+---
 
 ### Quantum Computing Portfolio
 
-A collection of notebooks and simulations covering:
+Collection of simulations and educational projects covering:
 
-* Quantum Gates and Circuits
-* Superposition and Entanglement
-* Bell States
-* Quantum Measurement
-* Quantum Algorithms
-* Qiskit-based Experiments
+* Quantum gates and circuits
+* Superposition and entanglement
+* Bell states
+* Quantum measurement
+* Variational algorithms
+* Qiskit-based simulations
 
-### Network Intrusion Detection System
+---
 
-Machine-learning-based cybersecurity project featuring:
+### Network Intrusion Detection Using Machine Learning
 
-* Network Traffic Analysis
-* Feature Engineering
-* XGBoost Classification
-* Real-Time Packet Monitoring
-* Security Analytics
+Machine learning project for cybersecurity applications.
+
+**Topics explored:**
+
+* Network traffic analysis
+* Feature engineering
+* XGBoost classification
+* Real-time packet monitoring
+* Security analytics
 
 ---
 
@@ -70,29 +92,34 @@ Machine-learning-based cybersecurity project featuring:
 * Mathematical Methods for Physics
 * Quantum Information Theory
 * Quantum Error Mitigation
-* Scientific Computing with Python
 * Computational Physics
-
----
-
-## 🎯 Current Goal
-
-I am building a research portfolio focused on the connection between:
-
-**Quantum Information → Fault-Tolerant Quantum Computing → Topological Phases of Matter → Majorana Zero Modes**
-
-while preparing for graduate studies and research in quantum technologies.
+* Scientific Computing with Python
 
 ---
 
 ## 🌱 Currently Learning
 
 * Qiskit and Quantum Simulations
-* Topological Quantum Matter
 * Condensed Matter Physics
-* Error Mitigation Techniques
-* Scientific Computing with Python
-* Research Methods in Quantum Information Science
+* Topological Quantum Matter
+* Quantum Error Correction
+* Numerical Methods for Physics
+* Research Methodology in Quantum Information Science
+
+---
+
+## 🎯 Research Direction
+
+I am particularly interested in the pathway:
+
+**Quantum Information Science**
+→ **Quantum Error Mitigation & Error Correction**
+→ **Fault-Tolerant Quantum Computing**
+→ **Topological Phases of Matter**
+→ **Majorana Zero Modes**
+→ **Topological Quantum Computation**
+
+My long-term goal is to contribute to the development of scalable and fault-tolerant quantum technologies by combining ideas from quantum information science and condensed matter physics.
 
 ---
 
@@ -101,8 +128,8 @@ while preparing for graduate studies and research in quantum technologies.
 * Quantum Computing Projects
 * Qiskit Simulations
 * Computational Physics
+* Numerical Quantum Models
 * Research-Oriented Open Source Projects
-* Scientific Computing Applications
 
 ---
 
@@ -115,4 +142,4 @@ while preparing for graduate studies and research in quantum technologies.
 
 ## ⚡ Long-Term Research Vision
 
-My research interests lie at the intersection of condensed matter physics and quantum information science. I am particularly interested in understanding how topological phases of matter can be leveraged for fault-tolerant quantum computation, with future interests in Majorana zero modes, non-Abelian anyons, and topological quantum computing.
+I am fascinated by the possibility that topology can provide natural protection for quantum information. My long-term research interests lie in understanding how topological phases of matter, Majorana zero modes, and quantum error correction can contribute to the realization of fault-tolerant quantum computers.
